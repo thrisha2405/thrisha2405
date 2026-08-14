@@ -47,8 +47,6 @@ A SQL-based project exploring data-related job postings and extracting insights 
 * Job and skill analysis
 * Business-oriented insights
 
-🔗 **[View Project](YOUR_REPOSITORY_LINK)**
-
 ---
 
 ## 🌱 Currently Learning
